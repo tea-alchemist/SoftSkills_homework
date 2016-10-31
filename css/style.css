@@ -16,7 +16,7 @@ body {
 }
 
 .wrapper {
-  width: 90%;
+  width: 1200px;
   margin: 0 auto;
   background: rgba(224,224,224,1);
   background: -moz-linear-gradient(top, rgba(224,224,224,1) 0%, rgba(247,247,247,1) 0%, rgba(227,227,227,0.94) 30%, rgba(224,224,224,0.94) 34%, rgba(201,201,201,0.94) 37%, rgba(217,217,217,0.94) 51%, rgba(207,207,207,0.94) 67%);
